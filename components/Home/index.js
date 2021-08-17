@@ -6,16 +6,15 @@ const Home = () => {
       <div className="row shadow-sm" style={{paddingTop: "25px", paddingBottom: "25px"}}>
         <div className="col-md-6 p-2">
           <div className="m-5 p-2">
-            <p className="lead font-weight-light text-muted"><span className="">We are</span> <b className="">INZOZI (Adventure Of a Lifetime)</b> 👋</p>
+            <p className="lead font-weight-light text-muted"><span className="">We are</span> <b className="">INZOZI (An adventure Of a Lifetime)</b> 👋</p>
             <p className="lead font-weight-light text-muted">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-            Ut enim ad minim veniam, quis nostrud exercitation 
-            ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+            Inzozi is a private tourism company that  prides itself on its excellent 
+            ability to produce a fantastic tour around different destination in Rwanda. 
+            It is eco friendly and with breathtaking scenery.
             </p>
             <p className="lead font-weight-light">
-              &quot;The best way out is always through.&quot; <br />
-              --Robert Frost
+              &quot;Life is either a daring adventure or nothing at all.&quot; <br />
+              --Helen Keller
             </p>
           </div>
         </div>

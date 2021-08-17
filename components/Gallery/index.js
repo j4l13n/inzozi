@@ -8,14 +8,14 @@ const Gallery = () => {
         <div className="col-md-4 col-lg-4">
           <div className="card m-2 border-0">
             <div className="card-title">
-              <img src="/inzozi-home-pic@2x.png" className="" style={{width: "100%"}}/>
+              <img src="/group@2x.png" className="" style={{width: "100%"}}/>
             </div>
           </div>
         </div>
         <div className="col-md-4 col-lg-4">
           <div className="card m-2 border-0">
             <div className="card-title">
-              <img src="/inzozi-home-pic@2x.png" className="rounded-circle" style={{width: "100%"}}/>
+              <img src="/gorilla@2x.png" className="rounded-circle" style={{width: "100%"}}/>
             </div>
           </div>
         </div>

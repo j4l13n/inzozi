@@ -13,15 +13,12 @@ const AboutUs = () => {
         </div>
         <div className="col d-flex justify-content-center align-self-center font-weight-light">
           <p className="lead">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-          eiusmod tempor incididunt ut labore et dolore magna aliqua. 
-          Ut enim ad minim veniam, quis nostrud exercitation 
-          ullamco laboris nisi ut aliquip ex ea commodo consequat.<br /><br />
+           Inzozi is a private tourism company that  prides itself on its excellent ability
+           to produce a fantastic tour around different destination in Rwanda. 
+           It is eco friendly and with breathtaking scenery..<br /><br />
 
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.<br /><br />
-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+           It&apos;s main objectives is to set a precedence in providing exciting adventure 
+           through the help of professionalism tourism as well as amazing destination.<br /><br />
           </p>
         </div>
       </div>
