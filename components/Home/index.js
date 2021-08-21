@@ -6,9 +6,9 @@ const Home = () => {
       <div className="row shadow-sm" style={{paddingTop: "25px", paddingBottom: "25px"}}>
         <div className="col-md-6 p-2">
           <div className="m-5 p-2">
-            <p className="lead font-weight-light text-muted"><span className="">We are</span> <b className="">INZOZI (Adventure Of a Lifetime)</b> 👋</p>
+            <p className="lead font-weight-light text-muted"><span className="">We are</span> <b className="">INZOZI Tours (Adventure Of a Lifetime)</b> 👋</p>
             <p className="lead font-weight-light text-muted">
-            We present to you, Rwanda also known as “the Land of a thousand hills”, 
+            We present to you, Rwanda, also known as “the Land of a thousand hills”, 
             is a beautiful eco-friendly country located in east Africa. 
             </p>
             <p className="lead font-weight-light text-muted">

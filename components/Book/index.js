@@ -1,55 +1,64 @@
 const Book = () => {
   return (
     <div className="container" id="bookings">
-      <div className="h4 p-3 d-flex justify-content-center">Bookings</div>
+      <div className="h4 py-5 d-flex justify-content-center">Bookings</div>
       <div className="row">
       <div id="carouselExampleControls" className="carousel slide" data-bs-ride="carousel">
         <div className="carousel-inner">
           <div className="carousel-item active">
             <div className="row d-flex justify-content-center">
-              <div className="col-3">
+              <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="240" alt="..." />
-                  </div>
-                  <div className="card-body">Card body description</div>
-                  <div className="card-footer bg-dark text-light d-flex justify-content-center">
-                    Biking tours
-                  </div>
-                </div>
-              </div>
-              <div className="col-3">
-                <div className="card shadow">
-                  <div className="card-title">
-                    <img src="/group@2x.png" className="d-block w-100" height="240" alt="..." />
-                  </div>
-                  <div className="card-body">Card body description</div>
-                  <div className="card-footer bg-dark text-light d-flex justify-content-center">
-                    Birds watching
-                  </div>
-                </div>
-              </div>
-              <div className="col-3">
-                <div className="card shadow">
-                  <div className="card-title">
-                    <img src="/group@2x.png" className="d-block w-100" alt="..." />
+                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="250" alt="..." />
                   </div>
                   <div className="card-body">
-                    We provide
+                    We plan for Biking tours in the Volcanoes Mountains, 
+                    Cities and other places within Rwanda
                   </div>
-                  <div className="card-footer bg-dark text-light d-flex justify-content-center">
-                    Cultural Tours
+                  <div className="card-footer bg-success text-light d-flex justify-content-center">
+                    <h5>Biking tours</h5>
                   </div>
                 </div>
               </div>
-              <div className="col-3">
+              <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/group@2x.png" className="d-block w-100" alt="..." />
+                    <img src="/bird-watching.jpg" className="d-block w-100" height="250" alt="..." />
                   </div>
-                  <div className="card-body">Card body description</div>
-                  <div className="card-footer bg-dark text-light d-flex justify-content-center">
-                    Camping
+                  <div className="card-body">
+                    It&apos;s amazing watching birds, and touring the thousand hills,
+                    Trees around you to make a great journey
+                  </div>
+                  <div className="card-footer bg-success text-light d-flex justify-content-center">
+                    <h5>Birds watching</h5>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-3">
+                <div className="card shadow">
+                  <div className="card-title">
+                    <img src="/group@2x.png" className="d-block w-100" height="250" alt="..." />
+                  </div>
+                  <div className="card-body">
+                    We make you see the life Rwanda live, lived 
+                    and the future, since we started to get some insights
+                  </div>
+                  <div className="card-footer bg-success text-light d-flex justify-content-center">
+                    <h5>Cultural Tours</h5>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-3">
+                <div className="card shadow">
+                  <div className="card-title">
+                    <img src="/camping.jpg" className="d-block w-100" height="250" alt="..." />
+                  </div>
+                  <div className="card-body">
+                    We make you see, the best view of the thousand hills, that brings joy and happiness to your sight  
+                  </div>
+                  <div className="card-footer bg-success text-light d-flex justify-content-center">
+                    <h5>Camping</h5>
                   </div>
                 </div>
               </div>
@@ -57,14 +66,60 @@ const Book = () => {
           </div>
           <div className="carousel-item">
             <div className="row">
-              <div className="col">
-                col1
+              <div className="col-md-3">
+                <div className="card shadow">
+                  <div className="card-title">
+                    <img src="/bird-watching.jpg" className="d-block w-100" height="250" alt="..." />
+                  </div>
+                  <div className="card-body">
+                    It&apos;s amazing watching birds, and touring the thousand hills,
+                    Trees around you to make a great journey
+                  </div>
+                  <div className="card-footer bg-success text-light d-flex justify-content-center">
+                    <h5>Birds watching</h5>
+                  </div>
+                </div>
               </div>
-              <div className="col">
-                col2
+              <div className="col-md-3">
+                <div className="card shadow">
+                  <div className="card-title">
+                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="250" alt="..." />
+                  </div>
+                  <div className="card-body">
+                    We plan for Biking tours in the Volcanoes Mountains, 
+                    Cities and other places within Rwanda
+                  </div>
+                  <div className="card-footer bg-success text-light d-flex justify-content-center">
+                    <h5>Biking tours</h5>
+                  </div>
+                </div>
               </div>
-              <div className="col">
-                col3
+              <div className="col-md-3">
+                <div className="card shadow">
+                  <div className="card-title">
+                    <img src="/camping.jpg" className="d-block w-100" height="250" alt="..." />
+                  </div>
+                  <div className="card-body">
+                    We make you see, the best view of the thousand hills, that brings joy and happiness to your sight  
+                  </div>
+                  <div className="card-footer bg-success text-light d-flex justify-content-center">
+                    <h5>Camping</h5>
+                  </div>
+                </div>
+              </div>
+              <div className="col-md-3">
+                <div className="card shadow">
+                  <div className="card-title">
+                    <img src="/group@2x.png" className="d-block w-100" height="250" alt="..." />
+                  </div>
+                  <div className="card-body">
+                    We make you see the life Rwanda live, lived 
+                    and the future, since we started to get some insights
+                  </div>
+                  <div className="card-footer bg-success text-light d-flex justify-content-center">
+                    <h5>Cultural Tours</h5>
+                  </div>
+                </div>
               </div>
             </div>
           </div>
