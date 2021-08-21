@@ -6,15 +6,20 @@ const Home = () => {
       <div className="row shadow-sm" style={{paddingTop: "25px", paddingBottom: "25px"}}>
         <div className="col-md-6 p-2">
           <div className="m-5 p-2">
-            <p className="lead font-weight-light text-muted"><span className="">We are</span> <b className="">INZOZI (An adventure Of a Lifetime)</b> 👋</p>
+            <p className="lead font-weight-light text-muted"><span className="">We are</span> <b className="">INZOZI (Adventure Of a Lifetime)</b> 👋</p>
             <p className="lead font-weight-light text-muted">
-            Inzozi is a private tourism company that  prides itself on its excellent 
-            ability to produce a fantastic tour around different destination in Rwanda. 
-            It is eco friendly and with breathtaking scenery.
+            We present to you, Rwanda also known as “the Land of a thousand hills”, 
+            is a beautiful eco-friendly country located in east Africa. 
             </p>
-            <p className="lead font-weight-light">
-              &quot;Life is either a daring adventure or nothing at all.&quot; <br />
-              --Helen Keller
+            <p className="lead font-weight-light text-muted">
+              {/* &quot;Life is either a daring adventure or nothing at all.&quot; <br />
+              --Helen Keller */}
+              It is possesses amazing scenery with breathtaking ecosystems 
+              that can be toured in forms of four major national parks 
+              (Volcanoes, Nyungwe, Akagera, and Gishwati-Mukura) and it&apos;s 
+              other natural assets include six volcanoes, 23 lakes and numerous
+              rivers, 5 the big 5 animals (lions, elephants, buffalo, rhino 
+              and leopard) as well as rare species such as mountain gorillas.
             </p>
           </div>
         </div>

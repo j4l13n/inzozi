@@ -1,5 +1,6 @@
 /* eslint-disable @next/next/no-sync-scripts */
 import Head from 'next/head';
+import {useEffect} from 'react'
 
 import 'bootstrap/dist/css/bootstrap.min.css';
 import '../styles/globals.css'
@@ -12,6 +13,9 @@ import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 library.add(fab, faCoffee)
 
 function MyApp({ Component, pageProps }) {
+  useEffect(() => {
+    typeof document !== undefined ? require('bootstrap/dist/js/bootstrap') : null
+  }, [])
   return (
     <>
       <Head>

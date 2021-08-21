@@ -1,25 +1,88 @@
+import { useState } from "react";
+
 const AboutUs = () => {
   return (
     <div className="container" style={{
-      marginTop: "80px",
+      marginTop: "40px",
       marginBottom: "20px"
     }}>
       <div className="h4 p-3 d-flex justify-content-center">About Us</div>
       <div className="row" style={{
-        paddingTop: "40px"
+        paddingTop: "20px"
       }}>
         <div className="col d-flex justify-content-center py-5">
           <img src="/inzozi-logo.png" alt="" className="rounded shadow-sm"  />
         </div>
-        <div className="col d-flex justify-content-center align-self-center font-weight-light">
-          <p className="lead">
-           Inzozi is a private tourism company that  prides itself on its excellent ability
-           to produce a fantastic tour around different destination in Rwanda. 
-           It is eco friendly and with breathtaking scenery..<br /><br />
+        <div className="col">
+          <div className="row">
+            {/* <div className="h4 py-2">About Us</div> */}
+            <p className="lead">
+            <b>INZOZI Tours</b> offers an adventure of a lifetime, 
+            through the rich environmental vicinity  vicinities of Rwanda, 
+            from the intertwining forests of Volcano Mountains to the 
+            spiritual plains of the savanna in Akagera National Park.<br /><br />
 
-           It&apos;s main objectives is to set a precedence in providing exciting adventure 
-           through the help of professionalism tourism as well as amazing destination.<br /><br />
-          </p>
+            <b>INZOZI Tours</b> makes a strong effort to produce a unique 
+            experience of enjoying the vast wildlife that Rwanda has to offer.<br /><br />
+            </p>
+          </div>
+          <div className="row">
+            <a type="button" data-bs-toggle="modal" data-bs-target="#exampleModal" className="" style={{cursor: 'pointer'}}>Read more</a>
+          </div>
+        </div>
+      </div>
+      <div className="modal fade" tabIndex="-1" id="exampleModal" aria-labelledby="exampleModalLabel" aria-hidden="true">
+        <div className="modal-dialog">
+          <div className="modal-content">
+            {/* <div className="modal-header border-0">
+             
+            </div> */}
+            <div className="modal-body">
+              <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                <div className="border-bottom">
+                  <img src="/inzozi-logo.png" className="" alt="" />
+                </div>
+                <div className="row py-2 border-bottom">
+                  {/* <div className="h5 py-2">About Us</div> */}
+                  <p className="font-weight-light fw-light">
+                  <b>INZOZI Tours</b> offers an adventure of a lifetime, 
+                  through the rich environmental vicinity  vicinities of Rwanda, 
+                  from the intertwining forests of Volcano Mountains to the 
+                  spiritual plains of the savanna in Akagera National Park.<br /><br />
+
+                  <b>INZOZI Tours</b> makes a strong effort to produce a unique 
+                  experience of enjoying the vast wildlife that Rwanda has to offer.<br /><br />
+                  </p>
+                </div>
+                <div className="row py-2 border-bottom">
+                  <div className="h5 py-2">Vision</div>
+                  <p className="font-weight-light fw-light">
+                  The vision of Inzozi Tours is to create awareness 
+                  to of the stunning wildlife that Rwanda has, 
+                  to offer while creating a professional atmosphere 
+                  to give the clients an the very best experience like 
+                  they have never had before. Inzozi Tours also seeks 
+                  to promote tourism activities by involving the local communities. 
+                  </p>
+                </div>
+                <div className="row py-2">
+                  <div className="h5 py-2">Mission</div>
+                  {/* <ul className="mx-4 me-auto"> */}
+                  <p className="font-weight-light fw-light">
+                    - Promoting the ecotourism in local communities by using 
+                    the indigenous knowledge, skills and the basic resources 
+                    especially around tourism attractions
+                  </p>
+                  <p className="font-weight-light fw-light">
+                    - Bringing awareness to the importance of protecting the ecosystem
+                  </p>
+                </div>
+            </div>
+            <div className="modal-footer">
+              <button type="button" className="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+              {/* <button type="button" className="btn btn-primary">Save changes</button> */}
+            </div>
+          </div>
         </div>
       </div>
     </div>

@@ -17,27 +17,30 @@ const Header = () => {
             <Image src='/inzozi-logo-xs.png' alt="Inzozi" width="195px" className="" height="80" />
           </a>
         </Link>
-        {/* <div className="collapse navbar-collapse"> */}
-          <ul className="navbar-nav ml-auto">
+        <button className="navbar-toggler border-0 btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span className="navbar-toggler-icon"></span>
+        </button>
+        <div className="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <a className="nav-link" ariaCurrent="page" href="#">
+              <a className="nav-link px-3" aria-current="page" href="#">
                 Home
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" ariaCurrent="page" href="#about-us">About Us</a>
+              <a className="nav-link px-3" aria-current="page" href="#about-us">About Us</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" ariaCurrent="page" href="#gallery">Gallery</a>
+              <a className="nav-link px-3" aria-current="page" href="#gallery">Gallery</a>
             </li>
             <li className="nav-item">
-              <a className="nav-link" ariaCurrent="page" href="#footer">Contact us</a>
+              <a className="nav-link px-3" aria-current="page" href="#footer">Contact us</a>
             </li>
-            <li className="nav-item bg-dark px-5 mx-5">
-              <a className="nav-link text-white" ariaCurrent="page" href="#">Book</a>
+            <li className="nav-item">
+              <a className="nav-link bg-success text-light px-4 shadow border d-flex justify-content-center" aria-current="page" href="#bookings">Bookings</a>
             </li>
           </ul>
-        {/* </div> */}
+        </div>
       </div>
     </nav>
   );

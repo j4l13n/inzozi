@@ -7,7 +7,7 @@ const Footer = () => {
         <div className="footer-elements">
           <div className="footer-text">
             <h6>CONTACT ME</h6>
-            <li><a href="#" className="text-decoration-none text-dark">+25 078 061 714</a></li> 
+            <li><a href="#" className="text-decoration-none text-dark">+25 078 </a></li> 
             <li><a href="#" className="text-decoration-none text-dark">juliushirwa@gmail.com</a></li>
           </div>
           <div className="footer-text">
