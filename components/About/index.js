@@ -27,7 +27,7 @@ const AboutUs = () => {
             </p>
           </div>
           <div className="row py-2 px-2">
-            <a type="button" data-bs-toggle="modal" data-bs-target="#exampleModal" className="" style={{cursor: 'pointer'}}>Read more</a>
+            <a type="button" data-bs-toggle="modal" data-bs-target="#exampleModal" className="" style={{cursor: 'pointer', paddingTop: "20px", paddingBottom: "20px"}}>Read more</a>
           </div>
         </div>
       </div>
