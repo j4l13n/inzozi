@@ -110,7 +110,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/group@2x.png" className="d-block w-100" width="100" height="250" alt="..." />
+                    <img src="/group@2x.png" className="d-block w-100" width="100" height="250" style={{width: "100%"}} alt="..." />
                   </div>
                   <div className="card-body">
                     We make you see the life Rwanda live, lived 

@@ -25,7 +25,7 @@ const Footer = () => {
             {/* </ul> */}
           </div>
           <div className="footer-text">
-            <h6>Talk to us via the email provided email here:!</h6>
+            <h6>Talk to us via the email provided here!</h6>
             <p className="text-dark">We are more of a welcoming company, ping us anytime for any question you have about INZOZI Tours.<br /><br /> Thank you 🤗</p>
           </div>
         </div>
