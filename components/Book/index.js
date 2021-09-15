@@ -24,7 +24,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/bird-watching.jpg" className="d-block w-100" height="250" alt="..." />
+                    <img src="/third-img.png" className="d-block w-100" height="250" alt="..." />
                   </div>
                   <div className="card-body">
                     It&apos;s amazing watching birds, and touring the thousand hills,
@@ -38,7 +38,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/group@2x.png" className="d-block w-100" height="250" alt="..." />
+                    <img src="/sixth-img@2x.png" className="d-block w-100" height="250" alt="..." />
                   </div>
                   <div className="card-body">
                     We make you see the life Rwanda live, lived 
@@ -69,7 +69,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/bird-watching.jpg" className="d-block w-100" height="250" alt="..." />
+                    <img src="/third-img.png" className="d-block w-100" height="250" alt="..." />
                   </div>
                   <div className="card-body">
                     It&apos;s amazing watching birds, and touring the thousand hills,
@@ -110,7 +110,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/group@2x.png" className="d-block w-100" width="100" height="250" style={{width: "100%"}} alt="..." />
+                    <img src="/sixth-img@2x.png" className="d-block w-100" width="100" height="250" style={{width: "100%"}} alt="..." />
                   </div>
                   <div className="card-body">
                     We make you see the life Rwanda live, lived 

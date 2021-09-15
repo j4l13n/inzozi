@@ -22,42 +22,42 @@ const Gallery = () => {
         <div className="col-md-3 col-lg-3">
           <div className="card m-2 border-0">
             <div className="card-title">
-              <img src="/inzozi-home-pic@2x.png" className="" style={{width: "100%", height: "100%"}}/>
+              <img src="/first-img.png" className="" style={{width: "100%", height: "100%"}}/>
             </div>
           </div>
         </div>
         <div className="col-md-3 col-lg-3">
           <div className="card m-2 border-0">
             <div className="card-title">
-              <img src="/inzozi-home-pic@2x.png" className="rounded-circle" style={{width: "100%", height: "100%"}}/>
+              <img src="/second-img.png" className="rounded-circle" style={{width: "100%", height: "100%"}}/>
             </div>
           </div>
         </div>
         <div className="col-md-3 col-lg-3">
           <div className="card m-2 border-0">
             <div className="card-title">
-              <img src="/inzozi-home-pic@2x.png" className="rounded-circle" style={{width: "100%", height: "100%"}}/>
+              <img src="/third-img.png" className="rounded-circle" style={{width: "100%", height: "100%"}}/>
             </div>
           </div>
         </div>
         <div className="col-md-3 col-lg-3">
           <div className="card m-2 border-0">
             <div className="card-title">
-              <img src="/inzozi-home-pic@2x.png" className="" style={{width: "100%", height: "100%"}}/>
+              <img src="/fourth-img.png" className="" style={{width: "100%", height: "100%"}}/>
             </div>
           </div>
         </div>
         <div className="col-md-3 col-lg-3">
           <div className="card m-2 border-0">
             <div className="card-title">
-              <img src="/inzozi-home-pic@2x.png" className="rounded-circle" style={{width: "100%", height: "100%"}}/>
+              <img src="/fifth-img.png" className="rounded-circle" style={{width: "100%", height: "100%"}}/>
             </div>
           </div>
         </div>
         <div className="col-md-3 col-lg-3">
           <div className="card m-2 border-0">
             <div className="card-title">
-              <img src="/inzozi-home-pic@2x.png" className="" style={{width: "100%", height: "100%"}}/>
+              <img src="/sixth-img@2x.png" className="" style={{width: "100%", height: "100%"}}/>
             </div>
           </div>
         </div>

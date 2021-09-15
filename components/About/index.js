@@ -17,13 +17,13 @@ const AboutUs = () => {
           <div className="row px-2">
             {/* <div className="h4 py-2">About Us</div> */}
             <p className="lead">
-            <b>INZOZI Tours</b> offers an adventure of a lifetime, 
-            through the rich environmental vicinity  vicinities of Rwanda, 
-            from the intertwining forests of Volcano Mountains to the 
-            spiritual plains of the savanna in Akagera National Park.<br /><br />
+            <b>INZOZI </b>means ‘dream’ in our language and we like to make your dreams come true.<br /><br />
 
-            <b>INZOZI Tours</b> makes a strong effort to produce a unique 
-            experience of enjoying the vast wildlife that Rwanda has to offer.<br /><br />
+            <b>INZOZI Tours </b>offers adventures of a lifetime through the richly varied environments of Rwanda, 
+            from the intertwining forests of Virunga Mountains to the spiritual plains of the savanna in 
+            Akagera National Park.<br /><br />
+            <b>INZOZI Tours </b>are proud to produce a unique and personal experience, where you can enjoy 
+              discovering this beautiful country and the vast wildlife that Rwanda has to offer.
             </p>
           </div>
           <div className="row py-2 px-2">
@@ -43,38 +43,28 @@ const AboutUs = () => {
                   <img src="/inzozi-logo.png" className="w-100" height="240" alt="" />
                 </div>
                 <div className="row py-2 border-bottom">
-                  {/* <div className="h5 py-2">About Us</div> */}
-                  <p className="font-weight-light fw-light">
-                  <b>INZOZI Tours</b> offers an adventure of a lifetime, 
-                  through the rich environmental vicinity  vicinities of Rwanda, 
-                  from the intertwining forests of Volcano Mountains to the 
-                  spiritual plains of the savanna in Akagera National Park.<br /><br />
-
-                  <b>INZOZI Tours</b> makes a strong effort to produce a unique 
-                  experience of enjoying the vast wildlife that Rwanda has to offer.<br /><br />
-                  </p>
-                </div>
-                <div className="row py-2 border-bottom">
                   <div className="h5 py-2">Vision</div>
                   <p className="font-weight-light fw-light">
-                  The vision of Inzozi Tours is to create awareness 
-                  to of the stunning wildlife that Rwanda has, 
-                  to offer while creating a professional atmosphere 
-                  to give the clients an the very best experience like 
-                  they have never had before. Inzozi Tours also seeks 
-                  to promote tourism activities by involving the local communities. 
+                  The vision of Inzozi Tours is to create awareness of the stunning wildlife that Rwanda has, 
+                  while creating a professional atmosphere to give our clients the best experience they have ever had. 
+                  </p>
+                  <p className="font-weight-light fw-light">
+                    Inzozi Tours also seeks to promote tourism activities by involving the local communities. 
                   </p>
                 </div>
                 <div className="row py-2">
                   <div className="h5 py-2">Mission</div>
                   {/* <ul className="mx-4 me-auto"> */}
                   <p className="font-weight-light fw-light">
-                    - Promoting the ecotourism in local communities by using 
-                    the indigenous knowledge, skills and the basic resources 
-                    especially around tourism attractions
+                  - Giving our clients excellent personal attention, listening to their needs and 
+                    providing them with unforgettable opportunities to enjoy Rwanda’s culture and hospitality.
                   </p>
                   <p className="font-weight-light fw-light">
-                    - Bringing awareness to the importance of protecting the ecosystem
+                    - Promoting the ecotourism in local communities by using the indigenous knowledge, 
+                    skills and the basic resources especially around tourism attractions
+                  </p>
+                  <p className="font-weight-light fw-light">
+                    - Bringing awareness to the importance of conservation and protecting the ecosystem.
                   </p>
                 </div>
             </div>
