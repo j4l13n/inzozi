@@ -10,9 +10,9 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="250" alt="..." />
+                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="280" alt="..." />
                   </div>
-                  <div className="card-body">
+                  <div className="card-body font-weight-light py-2">
                     We plan for Biking tours in the Volcanoes Mountains, 
                     Cities and other places within Rwanda
                   </div>
@@ -24,9 +24,9 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/third-img.png" className="d-block w-100" height="250" alt="..." />
+                    <img src="/third-img.png" className="d-block w-100" height="280" alt="..." />
                   </div>
-                  <div className="card-body">
+                  <div className="card-body font-weight-light py-2">
                     It&apos;s amazing watching birds, and touring the thousand hills,
                     Trees around you to make a great journey
                   </div>
@@ -38,9 +38,9 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/sixth-img@2x.png" className="d-block w-100" height="250" alt="..." />
+                    <img src="/sixth-img@2x.png" className="d-block w-100" height="280" alt="..." />
                   </div>
-                  <div className="card-body">
+                  <div className="card-body font-weight-light py-2">
                     We make you see the life Rwanda live, lived 
                     and the future, since we started to get some insights
                   </div>
@@ -52,9 +52,9 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/camping.jpg" className="d-block w-100" height="250" alt="..." />
+                    <img src="/camping.jpg" className="d-block w-100" height="280" alt="..." />
                   </div>
-                  <div className="card-body">
+                  <div className="card-body font-weight-light py-2">
                     We make you see, the best view of the thousand hills, that brings joy and happiness to your sight  
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
@@ -69,9 +69,9 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/third-img.png" className="d-block w-100" height="250" alt="..." />
+                    <img src="/third-img.png" className="d-block w-100" height="280" alt="..." />
                   </div>
-                  <div className="card-body">
+                  <div className="card-body font-weight-light py-2">
                     It&apos;s amazing watching birds, and touring the thousand hills,
                     Trees around you to make a great journey
                   </div>
@@ -83,9 +83,9 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="250" alt="..." />
+                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="280" alt="..." />
                   </div>
-                  <div className="card-body">
+                  <div className="card-body font-weight-light py-2">
                     We plan for Biking tours in the Volcanoes Mountains, 
                     Cities and other places within Rwanda
                   </div>
@@ -97,9 +97,9 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/camping.jpg" className="d-block w-100" height="250" alt="..." />
+                    <img src="/camping.jpg" className="d-block w-100" height="280" alt="..." />
                   </div>
-                  <div className="card-body">
+                  <div className="card-body font-weight-light py-2">
                     We make you see, the best view of the thousand hills, that brings joy and happiness to your sight  
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
@@ -110,9 +110,9 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/sixth-img@2x.png" className="d-block w-100" width="100" height="250" style={{width: "100%"}} alt="..." />
+                    <img src="/sixth-img@2x.png" className="d-block w-100" width="100" height="280" style={{width: "100%"}} alt="..." />
                   </div>
-                  <div className="card-body">
+                  <div className="card-body font-weight-light py-2">
                     We make you see the life Rwanda live, lived 
                     and the future, since we started to get some insights
                   </div>
