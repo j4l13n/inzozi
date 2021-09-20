@@ -11,7 +11,7 @@ const AboutUs = () => {
         paddingTop: "20px"
       }}>
         <div className="col-md-6 d-flex justify-content-center py-5">
-          <img src="/inzozi-logo.png" height="250" alt="" className="rounded shadow-sm"  />
+          <img src="/inzozi-logo.png" height="250" style={{width: "100%", height: "250px", objectFit: 'cover'}} alt="" className="rounded shadow-sm"  />
         </div>
         <div className="col-md-6">
           <div className="row px-2">
@@ -20,7 +20,7 @@ const AboutUs = () => {
             <b>INZOZI </b>means ‘dream’ in our language and we like to make your dreams come true.<br /><br />
 
             <b>INZOZI Tours </b>offers adventures of a lifetime through the richly varied environments of Rwanda, 
-            from the intertwining forests of Virunga Mountains to the spiritual plains of the savanna in 
+            from the intertwining forests of Volcanoes Mountains to the spiritual plains of the savanna in 
             Akagera National Park.<br /><br />
             <b>INZOZI Tours </b>are proud to produce a unique and personal experience, where you can enjoy 
               discovering this beautiful country and the vast wildlife that Rwanda has to offer.
@@ -40,7 +40,7 @@ const AboutUs = () => {
             <div className="modal-body">
               <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 <div className="border-bottom">
-                  <img src="/inzozi-logo.png" className="w-100" height="240" alt="" />
+                  <img src="/inzozi-logo.png" className="w-100" style={{width: "100%", height: "240px", objectFit: 'cover'}} alt="" />
                 </div>
                 <div className="row py-2 border-bottom">
                   <div className="h5 py-2">Vision</div>

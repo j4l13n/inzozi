@@ -13,7 +13,7 @@ const Home = () => {
             </p>
             <p className="lead font-weight-light text-muted">
               Rwanda possesses amazing scenery with breath- taking ecosystems that can be 
-              experienced through tours of our four major National Parks: Virunga, 
+              experienced through tours of our four major National Parks: Volcanoes, 
               Nyungwe, Akagera, and Gishwati-Mukura.
             </p>
             <p className="lead font-weight-light text-muted">
