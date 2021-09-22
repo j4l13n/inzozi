@@ -10,7 +10,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="280" alt="..." />
+                    <img src="/biking.jpeg" className="d-block w-100" style={{objectFit: "cover"}} height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
                     We plan for Biking tours in the Volcanoes Mountains, 
@@ -83,7 +83,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/Congo-Nile-Trail.jpeg" className="d-block w-100" height="280" alt="..." />
+                    <img src="/biking.jpeg" className="d-block w-100" style={{objectFit: "cover"}} height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
                     We plan for Biking tours in the Volcanoes Mountains, 

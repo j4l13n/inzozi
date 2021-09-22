@@ -23,21 +23,29 @@ const Header = () => {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav me-auto mb-2 mb-lg-0">
             <li className="nav-item">
-              <a className="nav-link px-3" aria-current="page" href="#">
+              <Link href="/#"><a className="nav-link px-3" aria-current="page" href="#">
                 Home
+              </a></Link>
+            </li>
+            <li className="nav-item">
+              <Link href="/#about-us"><a className="nav-link px-3" aria-current="page" href="#about-us">About Us</a></Link>
+            </li>
+            <li className="nav-item">
+              <Link href="/#gallery"><a className="nav-link px-3" aria-current="page" href="#gallery">Gallery</a></Link>
+            </li>
+            <li className="nav-item dropdown">
+              <a className="nav-link dropdown-toggle px-3" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Itineraries
               </a>
+              <ul className="dropdown-menu" aria-labelledby="navbarDropdown">
+                <li><Link href="/itinerary/rwanda-10-days"><a className="dropdown-item" href="#">Traveling Spectacular Rwanda in 10 days</a></Link></li>
+              </ul>
             </li>
             <li className="nav-item">
-              <a className="nav-link px-3" aria-current="page" href="#about-us">About Us</a>
+              <Link href="/#footer"><a className="nav-link px-3" aria-current="page" href="#footer">Contact us</a></Link>
             </li>
             <li className="nav-item">
-              <a className="nav-link px-3" aria-current="page" href="#gallery">Gallery</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link px-3" aria-current="page" href="#footer">Contact us</a>
-            </li>
-            <li className="nav-item">
-              <a className="nav-link bg-success text-light px-4 shadow border d-flex justify-content-center" aria-current="page" href="#bookings">Bookings</a>
+              <Link href="/#bookings"><a className="nav-link bg-success text-light px-4 shadow border d-flex justify-content-center" aria-current="page" href="#bookings">Bookings</a></Link>
             </li>
           </ul>
         </div>
