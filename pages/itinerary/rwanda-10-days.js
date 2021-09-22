@@ -23,7 +23,7 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The First Day</small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/Kigali-Airport.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
@@ -37,22 +37,22 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The Second Day</small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/Game-Drives-in-Akagera-National-Parks-750x374.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
             <p className="text-muted">
-            We are reached at Akagera national parks we have already handled registration 
-            process and then  we gonna have different activities in 3 Days .  like : 
-            - half Game drive  
-            - Night Game drive 
-            Planning the third days.
+              We are reached at Akagera national parks we have already handled registration 
+              process and then  we gonna have different activities in 3 Days .  like : 
+              - half Game drive  
+              - Night Game drive 
+              Planning the third days.
             </p>
           </li>
           <li className="">
-            <small>The Third Day </small>
+            <small>The Third Day</small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/akagera-img-1.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
@@ -65,7 +65,7 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The Fourth Day </small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/kayonza-district.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
@@ -79,7 +79,7 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The Fifth Day </small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/Rwanda-of-Volcanoes-National.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
@@ -93,7 +93,7 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The Sixth Day </small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/image_6483441 (9).JPG" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
@@ -104,7 +104,7 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The Seventh Day </small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/water_fall_isumo_hike_nyungwe.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
@@ -117,7 +117,7 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The Eighth Day </small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/nyungwe_forest_chimp-rwanda.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
@@ -131,7 +131,7 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The Ninth Days </small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/Rwanda Canopy.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>
@@ -145,7 +145,7 @@ const Rwanda10Days = () => {
           <li className="">
             <small>The Tenth Day as is the last day of Thousand hills (RWANDA) tour </small>
             <div className="row">
-              <div className="col-3 py-4">
+              <div className="col-md-3 py-4">
                 <img src="/local-market.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
               </div>
             </div>

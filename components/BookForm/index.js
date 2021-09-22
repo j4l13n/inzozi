@@ -1,6 +1,7 @@
 const BookForm = () => {
   return (
-    <div className="container px-10">
+    <div className="container px-5 col-md-8">
+      <h4 className="pb-3">Contact Us</h4>
       <div className="mb-3">
         <label htmlFor="exampleFormControlInput1" className="form-label">Names</label>
         <input type="text" className="form-control" id="exampleFormControlInput1" placeholder="Your names" />
