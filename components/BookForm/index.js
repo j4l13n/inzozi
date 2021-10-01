@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
 
 const BookForm = () => {
-  const { register, handleSubmit, watch, formState: { errors } } = useForm();
+  const { register, handleSubmit, reset, watch, formState: { errors } } = useForm();
   const [submitted, setSubmitted] = useState(false)
   
   const onSubmit = data => {
@@ -18,6 +18,7 @@ const BookForm = () => {
       if (res.status === 200) {
         console.log('Response successful')
         setSubmitted(true)
+        reset()
       }
     })
     // setTimeout(() => {
