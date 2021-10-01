@@ -14,7 +14,7 @@ const Header = () => {
       <div className="container-fluid">
         <Link href="/">
           <a href="#" className="navbar-brand" style={{marginTop: "-15px", marginBottom: "-15px"}}>
-            <Image src='/inzozi-logo-xs.png' alt="Inzozi" width="195px" className="" height="80" />
+            <img src='/inzozi tours  karagwA.png' alt="Inzozi" width="195px" className="" height="80" />
           </a>
         </Link>
         <button className="navbar-toggler border-0 btn-link" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

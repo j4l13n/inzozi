@@ -5,7 +5,7 @@ const Gallery = () => {
   const dataSource = [
     {
       id: 1,
-      imgSource: '/seventh-img.JPG',
+      imgSource: '/IMG_0734.jpg',
       classNames: ''
     },
     {

@@ -4,6 +4,7 @@ import Footer from "../components/Footer";
 import Gallery from "../components/Gallery";
 import AboutUs from "../components/About";
 import Book from "../components/Book";
+import BookForm from "../components/BookForm";
 
 const HomePage = () => {
   return (
@@ -13,6 +14,7 @@ const HomePage = () => {
       <AboutUs />
       <Gallery />
       <Book />
+      <BookForm />
       <Footer />
     </>
   );

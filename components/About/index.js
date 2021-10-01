@@ -10,8 +10,8 @@ const AboutUs = () => {
       <div className="row" style={{
         paddingTop: "20px"
       }}>
-        <div className="col-md-6 d-flex justify-content-center py-5">
-          <img src="/inzozi-logo.png" height="250" style={{width: "100%", height: "250px", objectFit: 'cover'}} alt="" className="rounded shadow-sm"  />
+        <div className="col-md-6 d-flex justify-content-center py-2">
+          <img src="/seventh-img.JPG" height="250" style={{width: "100%", height: "100%", objectFit: 'fill'}} alt="" className="shadow-sm" />
         </div>
         <div className="col-md-6">
           <div className="row px-2">
