@@ -10,17 +10,21 @@ export default async function (req, res) {
     port: 465, // 587,
     secure: true, // true for 465, false for other ports
     auth: {
-      user: 'inzozitours20@gmail.com', // generated ethereal user
-      pass: 'Inzozitours123!@#', // generated ethereal password
+      user: process.env.EMAIL || 'inzozitour@gmail.com', // generated ethereal user
+      pass: process.env.PASSWORD || 'Inzozitour123!@#', // generated ethereal password
     },
   });
 
   const mailData = {
     from: testAccount.user,
-    to: 'inzozitours20@gmail.com',
-    subject: `Message From ${req.body.names}`,
+    to: process.env.EMAIL || 'inzozitours20@gmail.com',
+    subject: `Message From ${req.body.names} ${req.body.mobile}`,
     text: req.body.message,
-    html: `<div>${req.body.message}</div>`
+    html: `
+      <div style="">${req.body.email}</div>
+      <div>${req.body.message}</div>
+      <div>${req.body.names}</div>
+    `
   }
 
   await transporter.sendMail(mailData, function (err, info) {

@@ -21,9 +21,6 @@ const BookForm = () => {
         reset()
       }
     })
-    // setTimeout(() => {
-    //   setSubmitted(false)
-    // }, 500)
   }
   
   return (
