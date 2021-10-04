@@ -18,12 +18,13 @@ export default async function (req, res) {
   const mailData = {
     from: testAccount.user,
     to: process.env.EMAIL || 'inzozitours20@gmail.com',
-    subject: `Message From ${req.body.names} ${req.body.mobile}`,
+    subject: `Message From ${req.body.names} ${req.body.mobile} ${req.body.email}`,
     text: req.body.message,
     html: `
-      <div style="">${req.body.email}</div>
       <div>${req.body.message}</div>
       <div>${req.body.names}</div>
+      <div style="">${req.body.email}</div>
+      <div style="">${req.body.mobile}</div>
     `
   }
 
