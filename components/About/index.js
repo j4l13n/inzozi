@@ -40,7 +40,7 @@ const AboutUs = () => {
             <div className="modal-body">
               <button type="button" className="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
                 <div className="border-bottom">
-                  <img src="/inzozi-logo.png" className="w-100" style={{width: "100%", height: "240px", objectFit: 'cover'}} alt="" />
+                  <img src="/inzozi tours  karagwA.png" className="w-100" style={{width: "100%", height: "240px", objectFit: 'cover'}} alt="" />
                 </div>
                 <div className="row py-2 border-bottom">
                   <div className="h5 py-2">Vision</div>

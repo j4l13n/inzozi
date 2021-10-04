@@ -30,9 +30,9 @@ export default async function (req, res) {
 
   await transporter.sendMail(mailData, function (err, info) {
     if(err)
-      console.log('>>>error',err)
+      console.log('>>>error', err)
     else
-      console.log('...',info)
+      console.log('...', info)
   })
 
   res.status(200).json()
