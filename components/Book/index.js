@@ -12,7 +12,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/biking.jpeg" style={{width: "100%", objectFit: 'cover'}} className="d-block w-100" height="280" alt="..." />
+                    <img src="/image1.jpeg" style={{width: "100%", objectFit: 'cover'}} className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
                     We plan for Biking tours in the Volcanoes Mountains, 
@@ -53,7 +53,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/camping.jpg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
+                    <img src="/image12.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
                     We make you see, the best view of the thousand hills, that brings joy and happiness to your sight  
@@ -84,7 +84,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/biking.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
+                    <img src="/image1.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
                     We plan for Biking tours in the Volcanoes Mountains, 
@@ -98,7 +98,7 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/camping.jpg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
+                    <img src="/image12.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
                     We make you see, the best view of the thousand hills, that brings joy and happiness to your sight  

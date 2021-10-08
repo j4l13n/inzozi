@@ -25,12 +25,12 @@ const Gallery = () => {
     },
     {
       id: 5,
-      imgSource: '/image_6483441 (10).JPG',
+      imgSource: '/image_67232257.JPG',
       classNames: ''
     },
     {
       id: 6,
-      imgSource: '/image_6483441 (14).JPG',
+      imgSource: '/image0 (1).jpeg',
       classNames: ''
     },
     {

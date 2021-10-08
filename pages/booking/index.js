@@ -14,19 +14,19 @@ const Booking = () => {
               <h5>Biking Tours</h5>
               <div className="row">
                 <div className="col-md-3 py-4">
-                  <img src="/biking.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
+                  <img src="/image1.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
                 </div>
               </div>
               <p className="text-muted font-weight-light py-2">
                 <ol>
                   <li>Congo Nile Trail</li>
-                  <li>Twin lake Burera and Ruhondo</li>
+                  <li>Twin Lakes Burera and Ruhondo</li>
                   <li>Volcano Belt</li>
                 </ol>
               </p>
             </li>
             <li className="">
-              <h5>Birds Watching</h5>
+              <h5>Bird Watching</h5>
               <div className="row">
                 <div className="col-md-3 py-4">
                   <img src="/third-img.png" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
@@ -34,15 +34,14 @@ const Booking = () => {
               </div>
               <p className="text-muted font-weight-light py-2">
                 <ol>
-                  <li>Bugesera</li>
-                  <li>Akagera national park</li>
+                  <li>Bugesera Lakes</li>
+                  <li>Akagera National Park</li>
                   <li>Nyungwe National Park </li>
-                  <li>Volcano national park </li>
-                  <li>Rugezi mash lands </li>
-                  <li>North lakes</li>
-                  <li>Twin lake Burera and Ruhondo</li>
-                  <li>Karoga</li>
-                  <li>Nyirakigugu</li>
+                  <li>Volcano National Park </li>
+                  <li>Rugezi Marsh Lands </li>
+                  <li>Twin Lakes Burera and Ruhondo</li>
+                  <li>Karago Lake</li>
+                  <li>Nyirakigugu Lake</li>
                 </ol>
               </p>
               <p>Mostly here we usually use Camping as accommodations especially on Twin lake.</p>
@@ -67,13 +66,16 @@ const Booking = () => {
               <h5>Adventure Tours</h5>
               <div className="row">
                 <div className="col-md-3 py-4">
-                  <img src="/biking.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
+                  <img src="/image1.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
+                </div>
+                <div className="col-md-3 py-4">
+                  <img src="/image10.jpeg" style={{ width: "100%", height: "174px", objectFit: "cover"}} alt="itinerary image" />
                 </div>
               </div>
               <p className="text-muted font-weight-light py-2">
                 <ol>
                   <li>Biking</li>
-                  <li>Hiking where we hike the local Mountain and Volcano </li>
+                  <li>Hiking where we hike Muhabura volcano, Gahinga Volcano,  Bisoke Volcano and Karisimbi Volcano </li>
                   <li>Caving which located  Musanze District</li>
                 </ol>
               </p>
