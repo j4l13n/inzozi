@@ -35,8 +35,8 @@ const Booking = () => {
               <p className="text-muted font-weight-light py-2">
                 <ol>
                   <li>Bugesera Lakes</li>
-                  <li>Akagera National Park</li>
-                  <li>Nyungwe National Park </li>
+                  <li><a href="https://www.visitrwanda.com/destinations/akagera-national-park/" target="_blank" rel="noreferrer">Akagera National Park</a></li>
+                  <li>Nyungwe National Park</li>
                   <li>Volcano National Park </li>
                   <li>Rugezi Marsh Lands </li>
                   <li>Twin Lakes Burera and Ruhondo</li>
