@@ -7,16 +7,16 @@ const Rwanda10Days = () => {
     <>
       <Layout />
       <div className="container py-5">
-        <h5 className="h4 py-3">The Itinerary of traveling whole country Rwanda in 10 days.</h5>
+        <h5 className="h4 py-3">The Itinerary of traveling the whole country of Rwanda in 10 days.</h5>
         <p>
           Welcome to the Land of a Thousand Hills, 
           where you are going to have the journey of 
           a lifetime exploring Rwanda in 10 Days. 
           You will make remarkable memories on this adventure, 
           visiting different destinations like Akagera National Park, 
-          with the big five animals, in and Volcano National 
+          with the big five animals, and Volcano National 
           Park where you can enjoy tracking Silverback Gorillas and 
-          see the life style of local citizens. At Nyungwe National 
+          see the lifestyle of local citizens. At Nyungwe National 
           Parks you can experience the Canopy Walk, the highest bridge 
           in the National Park and encounter the different primates 
           living there like Chimpanzees and Golden Monkeys. 
@@ -68,7 +68,7 @@ const Rwanda10Days = () => {
               </div>
             </div>
             <p className="text-muted">
-              You will have have the chance to experience the way Community Based Tourism has changed lives at Kayonza Women’s Cooperative, and how the National Park has improved the welfare of local communities around Akagera. We then head us to Musanze.
+              You will have the chance to experience the way Community Based Tourism has changed lives at Kayonza Women’s Cooperative, and how the National Park has improved the welfare of local communities around Akagera. We then head to Musanze.
             </p>
           </li>
           <li className="">
