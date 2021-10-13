@@ -15,8 +15,7 @@ const Book = () => {
                     <img src="/image1.jpeg" style={{width: "100%", objectFit: 'cover'}} className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
-                    We plan for Biking tours in the Volcanoes Mountains, 
-                    Cities and other places within Rwanda
+                    The Land of a Thousand Hills is a biking dream for mountain or road cyclists.
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
                     <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Biking tours</a></Link></h5>
@@ -26,14 +25,13 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/third-img.png" style={{width: "100%", objectFit: 'cover'}} className="d-block w-100" height="280" alt="..." />
+                    <img src="/inyoni2.jpeg" style={{width: "100%", objectFit: 'cover'}} className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
-                    It&apos;s amazing watching birds, and touring the thousand hills,
-                    Trees around you to make a great journey
+                    Rwanda’s an amazing bird watching destination with over 700 species to see.
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
-                    <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Birds watching</a></Link></h5>
+                    <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Bird watching</a></Link></h5>
                   </div>
                 </div>
               </div>
@@ -43,7 +41,7 @@ const Book = () => {
                     <img src="/sixth-img@2x.png" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
-                    We get you to Rwandan community and share experience living, and talking with them.
+                    Experience the colorful culture of Rwanda and its welcoming hospitality. 
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
                     <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Community tourism</a></Link></h5>
@@ -56,7 +54,7 @@ const Book = () => {
                     <img src="/image12.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
-                    We make you see, the best view of the thousand hills, that brings joy and happiness to your sight  
+                    Camping on hillsides or lake shores, where every view is always stunning.  
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
                     <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Camping</a></Link></h5>
@@ -70,14 +68,13 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/third-img.png" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
+                    <img src="/inyoni2.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
-                    It&apos;s amazing watching birds, and touring the thousand hills,
-                    Trees around you to make a great journey
+                    Rwanda’s an amazing bird watching destination with over 700 species to see.
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
-                    <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Birds watching</a></Link></h5>
+                    <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Bird watching</a></Link></h5>
                   </div>
                 </div>
               </div>
@@ -87,8 +84,7 @@ const Book = () => {
                     <img src="/image1.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
-                    We plan for Biking tours in the Volcanoes Mountains, 
-                    Cities and other places within Rwanda
+                    The Land of a Thousand Hills is a biking dream for mountain or road cyclists.
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
                     <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Biking tours</a></Link></h5>
@@ -101,7 +97,7 @@ const Book = () => {
                     <img src="/image12.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
-                    We make you see, the best view of the thousand hills, that brings joy and happiness to your sight  
+                    Camping on hillsides or lake shores, where every view is always stunning.
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
                     <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Camping</a></Link></h5>
@@ -111,14 +107,13 @@ const Book = () => {
               <div className="col-md-3">
                 <div className="card shadow">
                   <div className="card-title">
-                    <img src="/community-img.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" width="100" height="280" alt="..." />
+                    <img src="/community.jpeg" style={{width: "100%", objectFit: 'cover'}}  className="d-block w-100" width="100" height="280" alt="..." />
                   </div>
                   <div className="card-body font-weight-light py-2">
-                    We make you see the life Rwanda live, lived 
-                    and the future, since we started to get some insights
+                    Experience the colorful culture of Rwanda and its welcoming hospitality.
                   </div>
                   <div className="card-footer bg-success text-light d-flex justify-content-center">
-                    <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Cultural Tours</a></Link></h5>
+                    <h5><Link href="/booking"><a href="#" className="text-decoration-none text-white">Community tourism</a></Link></h5>
                   </div>
                 </div>
               </div>
