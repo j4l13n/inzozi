@@ -45,8 +45,8 @@ const AboutUs = () => {
                 <div className="row py-2 border-bottom">
                   <div className="h5 py-2">Vision</div>
                   <p className="font-weight-light fw-light">
-                  The vision of Inzozi Tours is to create awareness of the stunning wildlife that Rwanda has, 
-                  while creating a professional atmosphere to give our clients the best experience they have ever had. 
+                  The vision of Inzozi Tours is to create awareness of the stunning wildlife that Rwanda has to offer, 
+                  whilst creating a professional atmosphere to give our clients the best experience they have ever had. 
                   </p>
                   <p className="font-weight-light fw-light">
                     Inzozi Tours also seeks to promote tourism activities by involving the local communities. 
@@ -61,7 +61,7 @@ const AboutUs = () => {
                   </p>
                   <p className="font-weight-light fw-light">
                     - Promoting the ecotourism in local communities by using the indigenous knowledge, 
-                    skills and the basic resources especially around tourism attractions
+                    skills and the basic resources especially around tourism attractions.
                   </p>
                   <p className="font-weight-light fw-light">
                     - Bringing awareness to the importance of conservation and protecting the ecosystem.

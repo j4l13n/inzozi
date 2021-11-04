@@ -9,7 +9,7 @@ const Rwanda10Days = () => {
       <div className="container py-5">
         <h5 className="h4 py-3">The Itinerary of traveling the whole country of Rwanda in 10 days.</h5>
         <p>
-          Welcome to the Land of a Thousand Hills, 
+          Welcome to The Land of a Thousand Hills, 
           where you are going to have the journey of 
           a lifetime exploring Rwanda in 10 Days. 
           You will make remarkable memories on this adventure, 
