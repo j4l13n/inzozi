@@ -29,7 +29,7 @@ const MeetFounder = () => {
           </div>
         </div>
         <div>
-          <img src="/gasigwa.jpeg" alt="Gasigwa Theogene" className="w-100" />
+          <img src="/gasigwa.jpeg" alt="Gasigwa Theogene" className="w-100 founder" />
         </div>
       </div>
     </div>

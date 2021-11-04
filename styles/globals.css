@@ -97,7 +97,7 @@
 
 .margin-auto {
   margin: 0 auto;
-  width: 60%;
+  width: 85%;
 }
 
 .about-details {
@@ -113,6 +113,11 @@
 .about-details p {
   opacity: 0.95;
   font-weight: 300;
+}
+
+.founder {
+  height: 100%;
+  object-fit: cover;
 }
 
 @media (max-width: 768px) {
