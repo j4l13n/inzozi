@@ -79,3 +79,53 @@
   }
 
 }
+
+.about-details {
+  background-color: #161617;
+}
+
+.about {
+  display: grid;
+  grid-template-columns: 70% 30%;
+}
+
+.about-details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.margin-auto {
+  margin: 0 auto;
+  width: 60%;
+}
+
+.about-details {
+  color: #fff;
+}
+
+.about-details h1 {
+  font-size: 25px;
+  padding-bottom: 20px;
+}
+
+.about-details h1,
+.about-details p {
+  opacity: 0.95;
+  font-weight: 300;
+}
+
+@media (max-width: 768px) {
+  .about {
+    grid-template-columns: repeat(1, 1fr);
+  }
+
+  .margin-auto {
+    margin: 40px auto;
+    width: 90%;
+  }
+
+  .main-pic-holder {
+    height: auto;
+  }
+}
