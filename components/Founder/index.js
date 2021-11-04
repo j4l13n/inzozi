@@ -4,7 +4,7 @@ const MeetFounder = () => {
       <div className="about">
         <div className="about-details">
           <div className="margin-auto">
-            <h1>Meet Founder</h1>
+            <h1>MEET THE FOUNDER</h1>
             <p>
             Gasigwa Theogene was born and raised in Rwanda and he’s passionate about his homeland.
             It’s a country that he knows and loves well, but life hasn’t been easy for him.
