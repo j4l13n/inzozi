@@ -32,6 +32,12 @@ const Footer = () => {
           <div className="footer-text">
             <h6>Talk to us via the email provided here!</h6>
             <p className="text-dark">We are a welcoming company, please contact us anytime for any question you have about <b>INZOZI Tours</b>.<br /><br /> Thank you</p>
+            <div>
+              <div className="py-3">Sponsored by:</div>
+              <div>
+                <img src="/cafeepraego.jpeg" alt="" style={{width: '100px'}} />
+              </div>
+            </div>
           </div>
         </div>
       </footer>
