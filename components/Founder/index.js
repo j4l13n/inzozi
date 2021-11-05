@@ -15,7 +15,7 @@ const MeetFounder = () => {
             </p>
             <p>
               He excelled at school where he studied Tourism and Hospitality. At university he was proud to graduate with a Bachelor’s Degree in Hotel and Restaurant Management with Distinction.
-              Opportunities followed and he gained invaluable working experience at Nyungwe Forest National Park, Lake Kivu Serena Hotel and Akagera National Park.
+              Opportunities followed and he gained invaluable working experience at Nyungwe National Park, Lake Kivu Serena Hotel and Akagera National Park.
             </p>
             <p>
               Gasigwa’s zest for life and the love he feels for his homeland have only made him more determined to introduce others to the joys and beauty of Rwanda- The Land of a Thousand Hills.

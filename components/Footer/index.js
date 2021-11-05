@@ -35,7 +35,9 @@ const Footer = () => {
             <div>
               <div className="py-3">Sponsored by:</div>
               <div>
-                <img src="/cafeepraego.jpeg" alt="" style={{width: '100px'}} />
+                <ul className="nav">
+                  <li><a href="#"><img src="/cafeepraego.jpeg" alt="" style={{width: '100px'}} /></a></li>
+                </ul>
               </div>
             </div>
           </div>
