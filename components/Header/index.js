@@ -1,6 +1,4 @@
 import Link from 'next/link'
-import Image from 'next/image'
-import logo from '../../public/inzozi-logo-xs.png'
 
 const Header = () => {
   return (
