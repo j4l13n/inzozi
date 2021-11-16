@@ -31,7 +31,7 @@ const Rwanda10Days = () => {
             </div>
             <p className="text-muted font-weight-light py-2">
             Arrival day begins with a welcome at Kigali Airport and being driven to your hotel. 
-            Here you can rest before visiting our Genocide Memorial in Kigali. 
+            Here you can rest before visiting our Genocide Against Tutsi Memorial in Kigali. 
             After this you will head to Akagera National Park to enjoy thrilling safaris seeing the Big Five and many other wild animals and birdlife. 
             </p>
           </li>

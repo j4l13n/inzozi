@@ -10,7 +10,7 @@ const MeetFounder = () => {
               It’s a country that he knows and loves well, but life hasn’t been easy for him.
             </p>
             <p>
-              At only two weeks old he was taken to the Noel Orphanage in Rubavu after both his parents died in the atrocities leading up to the Genocide in 1994.
+              At only two weeks old he was taken to the Noel Orphanage in Rubavu after both his parents died in the atrocities leading up to the Genocide Against Tutsi in 1994.
               For the next twenty four years he lived a life of hardship and struggle with his ‘brothers and sisters’, in the Orphanage. He faced many challenges but he was always determined to succeed.
             </p>
             <p>
