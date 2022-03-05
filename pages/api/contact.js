@@ -11,7 +11,7 @@ export default async function (req, res) {
     secure: true, // true for 465, false for other ports
     auth: {
       user: 'inzozitours20@gmail.com', // generated ethereal user
-      pass: 'Inzozitours123!@#', // generated ethereal password
+      pass: 'Inzozitours@123!', // generated ethereal password
     },
   });
 
